@@ -1,6 +1,6 @@
 # portfolio
 
-My Portfolio Appication
+My Portfolio Application
 
 ## Getting Started
 
